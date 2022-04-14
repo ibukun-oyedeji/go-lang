@@ -26,6 +26,7 @@ func main() {
 		fmt.Scan(&lastName)
 
 		fmt.Println("Enter your email addresss: ")
+
 		fmt.Scan(&email)
 
 		fmt.Println("Enter number of tickets: ")
